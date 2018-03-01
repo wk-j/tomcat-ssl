@@ -1,0 +1,4 @@
+{
+    "xmlTools.removeCommentsOnMinify": false,
+    "xmlTools.splitXmlnsOnFormat": true
+}
